@@ -1,0 +1,46 @@
+D:\231-3\APD\Chat\Server\Server\obj\Debug\ResolveAssemblyReference.cache
+D:\231-3\APD\Chat\Server\Server\bin\Debug\Server.exe
+D:\231-3\APD\Chat\Server\Server\bin\Debug\Server.pdb
+D:\231-3\APD\Chat\Server\Server\obj\Debug\Server.exe
+D:\231-3\APD\Chat\Server\Server\obj\Debug\Server.pdb
+F:\Chat\Server\Server\obj\Debug\Server.exe
+F:\Chat\Server\Server\obj\Debug\Server.pdb
+F:\Chat\Server\Server\bin\Debug\Server.exe
+F:\Chat\Server\Server\bin\Debug\Server.pdb
+C:\Users\Lavinia\Desktop\Chat\Server\Server\obj\Debug\Server.exe
+C:\Users\Lavinia\Desktop\Chat\Server\Server\obj\Debug\Server.pdb
+C:\Users\Lavinia\Desktop\Chat\Server\Server\bin\Debug\Server.exe
+C:\Users\Lavinia\Desktop\Chat\Server\Server\bin\Debug\Server.pdb
+C:\Users\Iulia\Desktop\Chat\Server\Server\obj\Debug\Server.exe
+C:\Users\Iulia\Desktop\Chat\Server\Server\obj\Debug\Server.pdb
+C:\Users\Iulia\Desktop\Chat\Server\Server\bin\Debug\Server.exe
+C:\Users\Iulia\Desktop\Chat\Server\Server\bin\Debug\Server.pdb
+F:\chat_v2\Chat\Server\Server\obj\Debug\Server.exe
+F:\chat_v2\Chat\Server\Server\obj\Debug\Server.pdb
+C:\Users\Lavinia\Desktop\chat_v2\Chat\Server\Server\obj\Debug\Server.exe
+C:\Users\Lavinia\Desktop\chat_v2\Chat\Server\Server\obj\Debug\Server.pdb
+C:\Users\Lavinia\Desktop\chat_v2\Chat\Server\Server\bin\Debug\Server.exe
+C:\Users\Lavinia\Desktop\chat_v2\Chat\Server\Server\bin\Debug\Server.pdb
+C:\Users\Bianca\Desktop\Chat_bun\Server\Server\obj\Debug\Server.exe
+C:\Users\Bianca\Desktop\Chat_bun\Server\Server\obj\Debug\Server.pdb
+C:\Users\Bianca\Desktop\Chat_bun\Server\Server\bin\Debug\Server.exe
+C:\Users\Bianca\Desktop\Chat_bun\Server\Server\bin\Debug\Server.pdb
+C:\Users\Bianca\Desktop\Chat_bun\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+G:\De pe Laptop 22.03.2020\Facultate\An IV\rus\an 4\sem2\APD\LAB\Chat_bun\Server\Server\bin\Debug\Server.exe
+G:\De pe Laptop 22.03.2020\Facultate\An IV\rus\an 4\sem2\APD\LAB\Chat_bun\Server\Server\bin\Debug\Server.pdb
+G:\De pe Laptop 22.03.2020\Facultate\An IV\rus\an 4\sem2\APD\LAB\Chat_bun\Server\Server\obj\Debug\Server.csprojAssemblyReference.cache
+G:\De pe Laptop 22.03.2020\Facultate\An IV\rus\an 4\sem2\APD\LAB\Chat_bun\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+G:\De pe Laptop 22.03.2020\Facultate\An IV\rus\an 4\sem2\APD\LAB\Chat_bun\Server\Server\obj\Debug\Server.exe
+G:\De pe Laptop 22.03.2020\Facultate\An IV\rus\an 4\sem2\APD\LAB\Chat_bun\Server\Server\obj\Debug\Server.pdb
+C:\Users\Adelina\my stuff\facultate\an4\de la lore\an4-raducu\an4\Sem2\Algoritmi paraleli si distribuiti\APD\APD\LAB\Chat_bun\Server\Server\bin\Debug\Server.exe
+C:\Users\Adelina\my stuff\facultate\an4\de la lore\an4-raducu\an4\Sem2\Algoritmi paraleli si distribuiti\APD\APD\LAB\Chat_bun\Server\Server\bin\Debug\Server.pdb
+C:\Users\Adelina\my stuff\facultate\an4\de la lore\an4-raducu\an4\Sem2\Algoritmi paraleli si distribuiti\APD\APD\LAB\Chat_bun\Server\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\Adelina\my stuff\facultate\an4\de la lore\an4-raducu\an4\Sem2\Algoritmi paraleli si distribuiti\APD\APD\LAB\Chat_bun\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Adelina\my stuff\facultate\an4\de la lore\an4-raducu\an4\Sem2\Algoritmi paraleli si distribuiti\APD\APD\LAB\Chat_bun\Server\Server\obj\Debug\Server.exe
+C:\Users\Adelina\my stuff\facultate\an4\de la lore\an4-raducu\an4\Sem2\Algoritmi paraleli si distribuiti\APD\APD\LAB\Chat_bun\Server\Server\obj\Debug\Server.pdb
+C:\Users\farca\OneDrive\Desktop\Server\Server\bin\Debug\Server.exe
+C:\Users\farca\OneDrive\Desktop\Server\Server\bin\Debug\Server.pdb
+C:\Users\farca\OneDrive\Desktop\Server\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\farca\OneDrive\Desktop\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\farca\OneDrive\Desktop\Server\Server\obj\Debug\Server.exe
+C:\Users\farca\OneDrive\Desktop\Server\Server\obj\Debug\Server.pdb

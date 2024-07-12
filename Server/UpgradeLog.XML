@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Server">
+</Property><Property Name="Solution File" Value="F:\Chat\Server\Server.sln">
+</Property><Property Name="User Options File" Value="F:\Chat\Server\Server.suo">
+</Property><Property Name="Date" Value="Wednesday, March 26, 2014">
+</Property><Property Name="Time" Value="19:21 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Server.sln" Description="File successfully backed up as F:\Chat\Server\Backup\Server.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Server.suo" Description="File successfully backed up as F:\Chat\Server\Backup\Server.suo">
+</Event><Event ErrorLevel="0" Project="Server" Source="Server\Server.csproj" Description="Project file successfully backed up as F:\Chat\Server\Backup\Server\Server.csproj">
+</Event><Event ErrorLevel="0" Project="Server" Source="Server\Program.cs" Description="File successfully backed up as F:\Chat\Server\Backup\Server\Program.cs">
+</Event><Event ErrorLevel="0" Project="Server" Source="Server\Properties\AssemblyInfo.cs" Description="File successfully backed up as F:\Chat\Server\Backup\Server\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Server" Source="Server\Server.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Server" Source="Server\Server.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Server.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Server.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Server" Source="Server\Server.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
